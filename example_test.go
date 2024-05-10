@@ -16,3 +16,13 @@ func ExampleNull() {
 	// Output: true
 	// false
 }
+
+func ExampleMust() {
+	foo := func() (int, error) {
+		return 1, nil
+	}
+
+	i := utils.Must(foo())
+	fmt.Println(i)
+	// Output: 1
+}
