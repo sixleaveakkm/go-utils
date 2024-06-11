@@ -1,0 +1,11 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/sixleaveakkm/go-utils v1.2.0-alpha h1:VGL5GUFkjjCb0pn6+F+B8NYkGnxjuPvEikLOzxYy95Q=
+github.com/sixleaveakkm/go-utils v1.2.0-alpha/go.mod h1:ZrLeKmY7iChxBhSXFN1DUUUPjkYApPHYpIDR3YoPeLQ=
+github.com/sixleaveakkm/go-utils/errz v0.1.0 h1:Edo4WyIR3bjJ64qRGCKdia4e45GaNBUcIL92FEppIMM=
+github.com/sixleaveakkm/go-utils/errz v0.1.0/go.mod h1:nEb2XpDKlw2A0sAjzV8miR0mMbAKihyd5+FPU3DTZBU=
+github.com/sixleaveakkm/go-utils/ptr v1.0.1/go.mod h1:XB97S1WbMNPwhDEf3VT9wVjk14EZ9QYjg1sRkoWLV3g=
+github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=
+golang.org/x/time v0.5.0 h1:o7cqy6amK/52YcAKIPlM3a+Fpj35zvRj2TP+e1xFSfk=
+golang.org/x/time v0.5.0/go.mod h1:3BpzKBy/shNhVucY/MWOyx10tF3SFh9QdLuxbVysPQM=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
