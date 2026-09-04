@@ -1,6 +1,6 @@
 module github.com/sixleaveakkm/go-utils/configer
 
-go 1.19
+go 1.27.0
 
 require (
 	github.com/caarlos0/env/v11 v11.0.1

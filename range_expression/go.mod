@@ -1,6 +1,6 @@
 module github.com/sixleaveakkm/go-utils/rangeexpression
 
-go 1.19
+go 1.27.0
 
 require github.com/sixleaveakkm/go-utils/slice v0.0.0-00010101000000-000000000000
 

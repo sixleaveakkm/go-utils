@@ -1,6 +1,6 @@
 module github.com/sixleaveakkm/go-utils
 
-go 1.19
+go 1.27.0
 
 require (
 	github.com/sixleaveakkm/go-utils/errz v0.1.0

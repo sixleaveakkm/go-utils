@@ -1,6 +1,6 @@
 module github.com/sixleaveakkm/go-utils/asyncexec
 
-go 1.19
+go 1.27.0
 
 require (
 	github.com/sixleaveakkm/go-utils v1.2.0-alpha
